@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukhammed Toichubai uulu</h1>
 <h3 align="center">A passionate java developer from Kyrgyzstan</h3>
 
-- 🔭 I’m currently working on [airbnb](https://github.com/peaksoft-school/airbnb)
-
-- 🌱 I’m currently learning **JavaScript**
-
 - 📫 How to reach me **muhammedtoichubai@gmail.com**
 
 - ⚡ Fun fact **I am sociable, responsible, punctual.**
