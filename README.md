@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mukhammed Toichubai uulu</h1>
-<h3 align="center">A passionate Java developer from Kyrgyzstan</h3>
 
 - 📫 How to reach me **muhammedtoichubai@gmail.com**
 
