@@ -21,8 +21,8 @@ I'm a passionate Java Developer with a focus on building efficient, scalable, an
 ## 📫 How to Reach Me
 
 - Email: mukhammed.toichubaiuulu@alatoo.edu.kg
-- LinkedIn: [](https://www.linkedin.com/in/mukhammedcodes/)
-- Telegram: [](https://t.me/mukhammedcodes)
+- LinkedIn: https://www.linkedin.com/in/mukhammedcodes
+- Telegram: https://t.me/mukhammedcodes
 
 ## 🌱 Fun Facts
 
