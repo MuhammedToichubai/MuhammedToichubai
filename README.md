@@ -30,6 +30,5 @@ I'm a passionate Java Developer with a focus on building efficient, scalable, an
 - I enjoy solving complex problems and making life easier with technology.
 - I love sharing my knowledge and collaborating on open-source projects.
 
-____________________________________
-
+----
 Let's connect and collaborate on exciting projects! 😊
