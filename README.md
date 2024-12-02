@@ -31,4 +31,4 @@ I'm a passionate Java Developer with a focus on building efficient, scalable, an
 - I love sharing my knowledge and collaborating on open-source projects.
 
 _______________________
-Let's connect and collaborate on exciting projects! 😊
+Let's connect and collaborate on existing projects! 😊
