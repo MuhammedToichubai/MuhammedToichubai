@@ -20,7 +20,7 @@ Java developer with experience in creating web applications and working with art
 
 ## 📫 How to Reach Me
 
-- Email: mukhammed.toichubaiuulu@alatoo.edu.kg
+- Email: muhammedtoichubai@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mukhammedcodes
 - Telegram: https://t.me/mukhammedcodes
 
