@@ -1,4 +1,4 @@
-#  Mukhammed Toichubai!
+#  Mukhammed Toichubai
 
 Java developer with experience in creating web applications and working with artificial intelligence. Proficient in Spring Boot and AWS cloud technologies. I enjoy developing simple and reliable solutions as part of a team.
 
