@@ -1,6 +1,6 @@
-# Hi there, I'm Mukhammed! 👋
+#  Mukhammed Toichubai!
 
-I'm a passionate Java Developer with a focus on building efficient, scalable, and robust web applications. My primary tech stack includes Java, Spring Boot, and Vaadin, and I have a keen interest in backend development, microservices architecture, and cloud computing.
+Java developer with experience in creating web applications and working with artificial intelligence. Proficient in Spring Boot and AWS cloud technologies. I enjoy developing simple and reliable solutions as part of a team.
 
 ## 🛠️ Technologies & Tools
 
